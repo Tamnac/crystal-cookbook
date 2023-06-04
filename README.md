@@ -24,3 +24,6 @@ The crystal cookbook aims to be just that.
 
 ## Problems
 - Too much ideological overlap with crystal book?
+
+## Implementation 
+Simple static site made with [Jekyll](https://jekyllrb.com)
