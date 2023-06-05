@@ -2,6 +2,8 @@
 Your guide to doing anything in crystal
 
 ## Pitch
+When I first started getting into crystal, and even now, I find myself spending way too much time trying to figure out how to do basic things like read a file, or how to live life without a for loop. This got me thinking, why? There are good crystal resources out there, so why were they not helpful. In my opinion it comes down to the following
+
 Crystal currently has 3 main resources:
 1. [The crystal book](https://crystal-lang.org/reference/1.8/) - Language specification + few brief guides
 2. [Awesome-crystal](https://github.com/veelenga/awesome-crystal) - Curated list of resources
